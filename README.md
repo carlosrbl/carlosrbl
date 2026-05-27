@@ -34,4 +34,22 @@ var Carlos = {
   <a href="https://www.php.net/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt="PHP" width="40" height="40">
   </a>
+  <a href="https://www.servicenow.com/es/" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/tx6KvUHxMaVEPnQZcRn2_Nqn8-cFqQsoJknZBtGRgzYFB_D5PvRmjHU397wLst9YZB0=w600-h300-pc0xffffff-pd" alt="ServiceNow" width="40" height="40">
+  </a>
+  <a href="https://aws.amazon.com/es/" target="_blank">
+    <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="AWS" width="40" height="40">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://images.icon-icons.com/2845/PNG/512/linux_logo_icon_181333.png" alt="Linux" width="40" height="40">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TS" width="40" height="40">
+  </a>
+  <a href="https://symfony.com/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/symfony-icon.png" alt="Symfony" width="40" height="40">
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" width="40" height="40">
+  </a>
 </p>
