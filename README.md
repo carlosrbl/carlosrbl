@@ -22,7 +22,7 @@ var Carlos = {
 
 ---
 
-Lenguajes y Herramientas
+### Lenguajes y Herramientas
 
  <p align="left">
   <a href="https://github.com/carlosrbl?tab=repositories" target="_blank">
@@ -30,5 +30,8 @@ Lenguajes y Herramientas
   </a>
   <a href="https://www.java.com/es/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt="PHP" width="40" height="40">
   </a>
 </p>
