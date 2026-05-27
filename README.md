@@ -11,4 +11,4 @@ var Carlos = {
 
  ### Métodos de contacto
 
- 
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](www.linkedin.com/in/carlos-rodrigo-beltrá) 
