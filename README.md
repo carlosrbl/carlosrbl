@@ -149,3 +149,9 @@ var Carlos = {
     <img src="https://symbols.getvecta.com/stencil_31/89_windows-server.49ec5e1b01.png" alt="WS" width="40" height="40">
   </a>
 </p>
+
+---
+
+### Estadísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrbl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
