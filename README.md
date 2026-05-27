@@ -11,4 +11,11 @@ var Carlos = {
 
  ### Métodos de contacto
 
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](www.linkedin.com/in/carlos-rodrigo-beltrá) 
+ <p align="left">
+  <a href="www.linkedin.com/in/carlos-rodrigo-beltrá" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="mailto:carlosrodrigobeltra1@hotmail.com" target="_blank">
+    <img src="https://download.logo.wine/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.png" alt="Outlook" width="40" height="40">
+  </a>
+</p>
