@@ -52,4 +52,49 @@ var Carlos = {
   <a href="https://angular.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" width="40" height="40">
   </a>
+  <a href="https://developer.android.com/studio?hl=es-419" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1280px-Android_Studio_icon_%282023%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Android Studio" width="40" height="40">
+  </a>
+  <a href="https://capacitorjs.com/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1268235262641004544/OLW1xl7t_400x400.png" alt="Capacitor JS" width="40" height="40">
+  </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-ionic-logo-icon-svg-download-png-3029993.png" alt="Ionic" width="40" height="40">
+  </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40">
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket IO" width="40" height="40">
+  </a>
+  <a href="https://www.json.org/json-es.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/3840px-JSON_vector_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="JSON" width="40" height="40">
+  </a>
+  <a href="https://es.wikipedia.org/wiki/Secure_Shell" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5261/5261867.png" alt="SSH" width="40" height="40">
+  </a>
+  <a href="https://www.microsoft.com/es-es/microsoft-teams/log-in" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microsoft_Office_Teams_%282025%E2%80%93present%29.svg/3840px-Microsoft_Office_Teams_%282025%E2%80%93present%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Teams" width="40" height="40">
+  </a>
+  <a href="https://openjfx.io/" target="_blank">
+    <img src="https://codigojava.online/wp-content/uploads/2023/02/JavaFX.png" alt="JavaFX" width="40" height="40">
+  </a>
+  <a href="https://www.redhat.com/es/topics/api/what-is-a-rest-api" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="API REST" width="40" height="40">
+  </a>
+  <a href="https://www.netacad.com/es/cisco-packet-tracer" target="_blank">
+    <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Packet Tracer" width="40" height="40">
+  </a>
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/3840px-Vitejs-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Vite" width="40" height="40">
+  </a>
+  <a href="https://xmind.com/es/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQuHSc0l8EKLzeujzynC4LF8uVzcHbBqjKw&s" alt="Xmind" width="40" height="40">
+  </a>
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="JIRA" width="40" height="40">
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JS" width="40" height="40">
+  </a>
 </p>
