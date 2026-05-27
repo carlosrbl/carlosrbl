@@ -38,13 +38,13 @@ var Carlos = {
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt="PHP" width="40" height="40">
   </a>
   <a href="https://www.servicenow.com/es/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/tx6KvUHxMaVEPnQZcRn2_Nqn8-cFqQsoJknZBtGRgzYFB_D5PvRmjHU397wLst9YZB0=w600-h300-pc0xffffff-pd" alt="ServiceNow" width="40" height="40">
+    <img src="https://www.servicenow.com/community/s/legacyfs/online/avatars_servicenow/f22b1014db13e380d6a102d5ca9619e4.jpg" alt="ServiceNow" width="40" height="40">
   </a>
   <a href="https://aws.amazon.com/es/" target="_blank">
     <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Faws_icon_146237.png&id=146237&pack_or_individual=pack" alt="AWS" width="40" height="40">
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://images.icon-icons.com/2845/PNG/512/linux_logo_icon_181333.png" alt="Linux" width="40" height="40">
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="Linux" width="40" height="40">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TS" width="40" height="40">
