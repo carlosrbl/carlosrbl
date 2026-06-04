@@ -1,4 +1,4 @@
-## Soy Carlos Rodrigo Beltrá
+## Carlos Rodrigo Beltrá
 
 ```javascript
 var Carlos = {
