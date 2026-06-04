@@ -7,7 +7,7 @@ var Carlos = {
 }
 ```
 
----
+<br />
 
  ### Métodos de contacto
 
