@@ -152,12 +152,7 @@ var Carlos = {
 
 ---
 
-### Lenguajes
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrbl&show_icons=true&theme=tokyonight)
-
----
-
-### Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrbl&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carlosrbl/stack-stats/main/stats.svg"
+       alt="Estadísticas de lenguaje" width="100%" />
+</div>
