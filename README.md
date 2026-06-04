@@ -41,7 +41,7 @@ var Carlos = {
     <img src="https://www.servicenow.com/community/s/legacyfs/online/avatars_servicenow/f22b1014db13e380d6a102d5ca9619e4.jpg" alt="ServiceNow" width="40" height="40">
   </a>
   <a href="https://aws.amazon.com/es/" target="_blank">
-    <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Faws_icon_146237.png&id=146237&pack_or_individual=pack" alt="AWS" width="40" height="40">
+    <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="AWS" width="40" height="40">
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="Linux" width="40" height="40">
