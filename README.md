@@ -36,7 +36,7 @@ const carlosInfo = {
       puesto: "POS Support Staff - IT Operations",
       empresa: "El Corte Inglés",
       periodo: "2024 - 2025",
-      descripcion: "Soporte técnico, mantenimiento de hardware y resolución de problemas de software para sistemas de punto de venta."
+      descripcion: "Soporte técnico, mantenimiento de hardware y resolución de problemas de software."
     }
   ],
   habilidades: {
