@@ -42,8 +42,8 @@ const carlosInfo = {
   habilidades: {
     frontend: ['JavaScript', 'TypeScript', 'Angular', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap', 'Ionic', 'CapacitorJS'],
     backend: ['Node.js', 'Express.js', 'Java', 'PHP (Symfony)', 'C#', 'REST APIs'],
-    basesDeDatos: ['MySQL', 'MongoDB', 'PL/SQL', 'Oracle SQL Developer'],
-    cloudYSistemas: ['AWS', 'Microsoft Azure', 'Linux', 'Windows Server', 'Docker', 'Nginx'],
+    BD: ['MySQL', 'MongoDB', 'PL/SQL', 'Oracle SQL Developer'],
+    cloud: ['AWS', 'Microsoft Azure', 'Linux', 'Windows Server', 'Docker', 'Nginx'],
     herramientas: ['ServiceNow', 'JIRA', 'GitHub', 'Trello', 'VS Code', 'IntelliJ IDEA']
   },
   certificaciones: [
