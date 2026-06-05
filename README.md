@@ -60,22 +60,6 @@ const carlosInfo = {
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 
- ### Métodos de contacto
-
- <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-rodrigo-beltrá" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="mailto:carlosrodrigobeltra1@hotmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?_=20251003204701" alt="Outlook" width="40" height="40">
-  </a>
-  <a href="https://t.me/carlosrbl" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png" alt="Telegram" width="40" height="40">
-  </a>
-</p>
-
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
-
 ### Lenguajes y Herramientas
 
  <p align="left">
