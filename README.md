@@ -155,5 +155,5 @@ var Carlos = {
 ### Estadísticas
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/carlosrbl/stack-stats/main/stats.svg" alt="Mis Estadísticas" width="100%" />
+    <img src="https://raw.githubusercontent.com/carlosrbl/stack-stats/main/stats.svg" alt="Mis Estadísticas de Lenguajes" width="100%" />
 </div>
