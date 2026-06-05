@@ -12,6 +12,7 @@ const carlosInfo = {
     email: "carlosrodrigobeltra1@hotmail.com",
     telefono: "(+34) 603 44 18 42",
     linkedin: "https://www.linkedin.com/in/carlos-rodrigo-beltrá/",
+    telegram: "https://t.me/carlosrbl"
   },
   titulaciones: [
     {
