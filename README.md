@@ -1,5 +1,3 @@
-## Carlos Rodrigo Beltrá 🚀
-
 ```javascript
 const carlosInfo = {
   perfil: {
