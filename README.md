@@ -1,4 +1,4 @@
-## Carlos Rodrigo Beltrá <img width="25" height="25" alt="foto" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" /> 
+## Carlos Rodrigo Beltrá 🚀
 
 ```javascript
 const carlosInfo = {
