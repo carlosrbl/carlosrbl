@@ -1,5 +1,7 @@
 ## Carlos Rodrigo Beltrá
 
+<img width="100" height="100" alt="carnet" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" />
+
 ```javascript
 var Carlos = {
     localidad: "Alicante",
