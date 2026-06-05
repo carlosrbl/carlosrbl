@@ -6,7 +6,6 @@ const carlosInfo = {
     nombre: "Carlos Rodrigo Beltrá",
     rol: "Full Stack Developer",
     localidad: "Alicante",
-    objetivo: "Combinar la experiencia en sistemas e infraestructura con el desarrollo de software moderno para crear soluciones digitales robustas."
   },
   contacto: {
     email: "carlosrodrigobeltra1@hotmail.com",
