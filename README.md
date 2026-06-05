@@ -1,4 +1,4 @@
-## Carlos Rodrigo Beltrá <img width="30" height="30"  alt="foto" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" /> 
+## Carlos Rodrigo Beltrá <img width="30" height="30" style="border-radius: 50%; border-color: black;" alt="foto" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" /> 
 
 ```javascript
 var Carlos = {
