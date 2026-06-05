@@ -1,10 +1,63 @@
-## Carlos Rodrigo Beltrá <img width="30" height="30" style="border-radius: 50%; border-color: black;" alt="foto" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" /> 
+## Carlos Rodrigo Beltrá <img width="25" height="25" alt="foto" src="https://github.com/user-attachments/assets/481bb067-07e9-45a3-bc62-a296fc1851ce" /> 
 
 ```javascript
-var Carlos = {
+const carlosInfo = {
+  perfil: {
+    nombre: "Carlos Rodrigo Beltrá",
+    rol: "Full Stack Developer",
     localidad: "Alicante",
-    titulaciones: ['Desarrollo de Aplicaciones Web','Técnico en Sistemas Microinformáticos y Redes'],
-}
+    objetivo: "Combinar la experiencia en sistemas e infraestructura con el desarrollo de software moderno para crear soluciones digitales robustas."
+  },
+  contacto: {
+    email: "carlosrodrigobeltra1@hotmail.com",
+    telefono: "(+34) 603 44 18 42",
+    linkedin: "https://www.linkedin.com/in/carlos-rodrigo-beltrá/",
+  },
+  titulaciones: [
+    {
+      titulo: "Desarrollo de Aplicaciones Web",
+      centro: "IES San Vicente",
+      periodo: "2024 - 2026"
+    },
+    {
+      titulo: "Sistemas Microinformáticos y Redes",
+      centro: "IES Mare Nostrum",
+      periodo: "2022 - 2024"
+    }
+  ],
+  experiencia: [
+    {
+      puesto: "FCT Technician in Web Application Development (ServiceNow AI Platform Architecture)",
+      empresa: "NTT DATA",
+      año: 2026,
+      descripcion: "Creación de soluciones low-code escalables y optimización de flujos de trabajo empresariales."
+    },
+    {
+      puesto: "POS Support Staff - IT Operations",
+      empresa: "El Corte Inglés",
+      periodo: "2024 - 2025",
+      descripcion: "Soporte técnico, mantenimiento de hardware y resolución de problemas de software para sistemas de punto de venta."
+    }
+  ],
+  habilidades: {
+    frontend: ['JavaScript', 'TypeScript', 'Angular', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap', 'Ionic', 'CapacitorJS'],
+    backend: ['Node.js', 'Express.js', 'Java', 'PHP (Symfony)', 'C#', 'REST APIs'],
+    basesDeDatos: ['MySQL', 'MongoDB', 'PL/SQL', 'Oracle SQL Developer'],
+    cloudYSistemas: ['AWS', 'Microsoft Azure', 'Linux', 'Windows Server', 'Docker', 'Nginx'],
+    herramientas: ['ServiceNow', 'JIRA', 'GitHub', 'Trello', 'VS Code', 'IntelliJ IDEA']
+  },
+  certificaciones: [
+    "AWS Cloud: Data Engineering, Cloud Foundations, Microservices",
+    "ServiceNow: System Administration, UI Builder, CMDB, Flow Designer",
+    "Cisco Cybersecurity: Ethical Hacker, Cyber Threat Management",
+    "AI: AI Fundamentals, Generative AI"
+  ],
+  idiomas: [
+    { idioma: "Español", nivel: "Nativo" },
+    { idioma: "Inglés", nivel: "B1" },
+    { idioma: "Catalán", nivel: "B1" }
+  ]
+};
 ```
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
