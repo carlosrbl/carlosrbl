@@ -183,6 +183,12 @@ const carlosInfo = {
   <a href="https://www.microsoft.com/es-es/windows-server" target="_blank">
     <img src="https://symbols.getvecta.com/stencil_31/89_windows-server.49ec5e1b01.png" alt="WS" width="40" height="40">
   </a>
+  <a href="https://es.python.org/" target="_blank">
+    <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="40" height="40">
+  </a>
+  <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="XML" width="40" height="40">
+  </a>
 </p>
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
