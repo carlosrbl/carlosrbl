@@ -121,7 +121,7 @@ const carlosInfo = {
     <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="API REST" width="40" height="40">
   </a>
   <a href="https://www.netacad.com/es/cisco-packet-tracer" target="_blank">
-    <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Packet Tracer" width="40" height="40">
+    <img src="https://img.utdstc.com/icon/3c9/4ad/3c94adae7a0cb3ecc5d94d0bc68cc1e3100754ec58d905936c2f0c2742843c98:600" alt="Packet Tracer" width="40" height="40">
   </a>
   <a href="https://vite.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/3840px-Vitejs-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Vite" width="40" height="40">
