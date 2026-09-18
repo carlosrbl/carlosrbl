@@ -189,6 +189,9 @@ const carlosInfo = {
   <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/29/29611.png" alt="XML" width="40" height="40">
   </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin" width="40" height="40">
+  </a>
 </p>
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
